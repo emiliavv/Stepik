@@ -1,4 +1,4 @@
-name: Python_Checker
+name: Action_python
 
 on: 
   push:
